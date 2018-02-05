@@ -1,0 +1,61 @@
+Fields:Example Values
+Last_Name:Alex
+First_Name:Zhao
+Street_Address:1 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
+Last_Name:Bryan
+First_Name:Qian
+Street_Address:2 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
+Last_Name:Chu
+First_Name:Sun
+Street_Address:3 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
+Last_Name:Darko
+First_Name:Li
+Street_Address:4 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
+Last_Name:Ellen
+First_Name:Zhou
+Street_Address:5 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
+Last_Name:Fu
+First_Name:Wu
+Street_Address:6 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
+Last_Name:Greg
+First_Name:Zheng
+Street_Address:7 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
+Last_Name:Hali
+First_Name:Wang
+Street_Address:8 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
+Last_Name:Ian
+First_Name:Feng
+Street_Address:9 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
+Last_Name:Lima
+First_Name:Chen
+Street_Address:10 college
+City_Name:Guelph
+Province:ON
+Postal_Code:N1G 1R7
